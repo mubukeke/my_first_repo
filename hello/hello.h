@@ -1,0 +1,6 @@
+#ifndef MYGITHUB_HELLO_HELLO_H_
+#define MYGITHUB_HELLO_HELLO_H_
+
+int Hello();
+
+#endif // MYGITHUB_HELLO_HELLO_H_
